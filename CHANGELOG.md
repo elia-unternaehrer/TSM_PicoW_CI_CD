@@ -1,5 +1,12 @@
 # CHANGELOG.md
 
+## v0.0.5
+Fixes:
+ - Modify the SEGGER installation path in the Dockerfile to align with the locally installed JLink version.
+
+Features:
+ - none
+
 ## v0.0.4
 Fixes:
  - fixed LED test
